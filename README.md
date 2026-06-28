@@ -97,10 +97,9 @@ npm run dev
 ```
 
 The app will be available at:
-- Frontend: http://localhost:3000
-- Backend: http://localhost:5000
+**Frontend**: [www.myhostell.site](https://www.myhostell.site)  
+**Backend API**: [https://hma-backend-g2q2.onrender.com](https://hma-backend-g2q2.onrender.com)
 
----
 
 ## 📸 Screenshots
 
