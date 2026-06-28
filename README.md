@@ -99,7 +99,7 @@ The app will be available at:
 
 | Login Page | Warden Dashboard | Owner Dashboard |
 |------------|-----------------|----------------|
-| ![Login Page](frontend/public/screenshots/Screenshot%202026-06-29%20003737.png) | ![Warden Dashboard](frontend/public/screenshots/Screenshot%202026-06-29%20004454.png) | ![Owner Dashboard](frontend/public/screenshots/Screenshot%202026-06-29%20005218.png) |
+| ![Login Page](photos/Screenshot%202026-06-29%20003737.png) | ![Warden Dashboard](photos/Screenshot%202026-06-29%20004454.png) | ![Owner Dashboard](photos/Screenshot%202026-06-29%20005218.png) |
 
 ---
 
