@@ -4,6 +4,13 @@ A complete, full-stack hostel management platform that streamlines operations fo
 
 ---
 
+## 🌐 Live Demo
+
+**Frontend**: [www.myhostell.site](https://www.myhostell.site)  
+**Backend API**: [https://hma-backend-g2q2.onrender.com](https://hma-backend-g2q2.onrender.com)
+
+---
+
 ## 🛠️ Tech Stack
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -50,7 +57,7 @@ Manual hostel management processes are time-consuming, error-prone, and lack rea
 
 1. **Clone the repository**
 ```bash
-git clone <your-repo-url
+git clone https://github.com/AMANRaj909/Myhostel_copilot.git
 cd HMA-main
 ```
 
@@ -111,11 +118,5 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📄 License
 
-This project is licensed under the ISC License.
+This project is licensed under the ISC License.  
 
----
-
-## 📞 Contact
-
-**Author**: Aman Raj  
-*(Add your contact information here)*
